@@ -4,4 +4,10 @@
 
 /.vs
 /video*
-/config.cfg
+*.cfg
+*.vdf
+*.ekv
+*.txt
+*.scr
+*.rc
+*.kv3
